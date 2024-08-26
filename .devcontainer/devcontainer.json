@@ -18,11 +18,8 @@
         "editor.insertSpaces": true,
         "editor.detectIndentation": false,
         "cSpellExt_latin.enable": true,
-        "cSpell.languageSettings": [
-          {
-            "languageId": "xml",
-            "dictionaries": ["latin"]
-          }
+        "cSpell.enableFiletypes": [
+          "xml"
         ]
       }
     }
