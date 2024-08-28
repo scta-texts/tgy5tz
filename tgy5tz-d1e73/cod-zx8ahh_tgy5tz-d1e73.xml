@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articulus 1</title>
+        <author ref="#per-igzigz">Inokentii Gizel</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2024-08-26">August 26, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="M" n="cod-zx8ahh">ms 303-128</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#M" n="2-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="tgy5tz-d1e48">
+        <head xml:id="tgy5tz-d1e48-Hd1e98">Articulus 1</head>
+        <p xml:id="tgy5tz-d1e48-d1e100">
+          <lb ed="#M" n="15"/>PARS PRIMA DIALECTICAE
+          <lb ed="#M" n="16"/>De operatione prima
+          <lb ed="#M" n="17"/>ARTICVLVS Imvs
+        </p>
+        <p xml:id="tgy5tz-d1e48-d1e109">
+          <lb ed="#M" n="18"/>De operatione <unclear>intellecti</unclear> ex <unclear>praecipue</unclear> de simplici apprehensione
+          <lb ed="#M" n="19"/>operatio in communi est <unclear>achis postea</unclear> intellectu <unclear>a</unclear>
+          <pb ed="#M" n="3-r"/>
+          <lb ed="#M" n="1"/>quo nobis repraesentatur obiectum dum nempe mente absque 
+          <lb ed="#M" n="2"/><unclear>n?</unclear> illiusque notitia habemus <unclear>versani</unclear> ante potest nostra intellectiva 
+          <lb ed="#M" n="3"/>cognitio circa omnes <unclear>pro?sis</unclear> rei nulla excepta <!-- possible inversion here --> imo enim circa 
+          <lb ed="#M" n="4"/><unclear>negationes</unclear> <unclear>re?</unclear> idcirca non entia, atque circa <name xml:id="tgy5tz-d1e48-Nd1e146">okam</name><!-- ???--> quadam 
+          <lb ed="#M" n="5"/>qua cum re ipsa non fiat ex <unclear>cogita??</unclear> <unclear>am?</unclear> abs<lb ed="#M" break="no" n="6"/>que 
+          Intellectu sua met cognitione <unclear>singularium</unclear> et propterea ea <unclear>dea?num</unclear>
+          <lb ed="#M" n="7"/>entia rationis <unclear>ult</unclear> ipsa cognitio quaedam perfecta est rectitudinem 
+          <lb ed="#M" n="8"/>et veritatem quam assequi intendimus <unclear>habetur</unclear> quidam defe<lb ed="#M" break="no" n="9"/>cit 
+          in rectitudinem aut falsitatem <unclear>hlt</unclear> <unclear>va ? ?</unclear> <unclear>agritudinem 
+          <lb ed="#M" n="10"/>et capacitatem rectitudines</unclear>
+        </p>
+        <p xml:id="tgy5tz-d1e48-d1e183">
+          <lb ed="#M" n="11"/><unclear>Pra?quem</unclear> consideramus tres esse gradus cognitionis 1mus 
+          <lb ed="#M" n="12"/>apprehensio 2dus iudicum 3tius discursus . Simplex <!-- possible marginal addition here-->
+          <lb ed="#M" n="13"/>apprehensione dum intellectus simplici modo cognoscit et con<lb ed="#M" break="no" n="14"/>cipit 
+          aliquam non iudicando ante illum sit <unclear>ve??</unclear> non sit 
+          <lb ed="#M" n="15"/>non quidquid affirmando aut negando ut ante <unclear>singuli</unclear> menti 
+          <lb ed="#M" n="16"/><unclear>repraesentar</unclear> homo <unclear>a?re</unclear> quam affirmemus vel negemus de <unclear>?</unclear>
+          <lb ed="#M" n="17"/>dicendo homo est albus homo non est lapis essentialis apprehen<lb ed="#M" break="no" n="18"/>sio 
+          est <unclear>?n?g</unclear> <unclear>actus</unclear> cognitionis et sic explicatio est cognitio 
+          <lb ed="#M" n="19"/>qua aliquo simpliciter capitur absque determinato <unclear>iudicio</unclear> 
+          <lb ed="#M" n="20"/>iudicium est <unclear>d? ?intellectus</unclear> apprehensa aliqua re determinate iudicet 
+          <lb ed="#M" n="21"/>aliquod de illa affirmando aut negando ut causa iudicat 
+          <lb ed="#M" n="22"/>et affirmet homo est animal aut eum iudicat et negat homo <unclear>??</unclear> est la<lb ed="#M" break="no" n="23"/>pis. 
+          Hoc est itaque et <unclear>da</unclear> intellectus quam est cognitio qua
+          <pb ed="#M" n="3-v"/>
+          <lb ed="#M" n="1"/>intellectus absque determinare iudicat affirmative neget 
+          <lb ed="#M" n="2"/><unclear>sifewedes</unclear> demum est <unclear>in</unclear> intellectus cognita aliquam veritate 
+          <lb ed="#M" n="3"/>ex illa deverit ad cognitione alieni <unclear>veritati</unclear> inferendo 
+          <lb ed="#M" n="4"/>unam esse alio ut dum intellectus cognoscat hanc veritatem 
+          <lb ed="#M" n="5"/>omne <unclear>lo?um</unclear> est maius sua parte simulque cognoscas <unclear>brachium</unclear>
+          <lb ed="#M" n="6"/>esse parc?e? <unclear>ha/i</unclear> inde infert <unclear>ideo</unclear> homo non est brachio ex ita 
+          <lb ed="#M" n="7"/>devenit in cognitione determinatae veritatis Ideoque hic 
+          <lb ed="#M" n="8"/>Aches cognitio bozar <unclear>rfeur??fus</unclear> quod quo intellectus explicatio 
+          <lb ed="#M" n="9"/>in actum excuserat atque hoc est 3tia operatio quod est cognitio 
+          <lb ed="#M" n="10"/>qua intellectus unum ex alio infert <unclear>?li</unclear> omnes actus a logice 
+          <lb ed="#M" n="11"/><unclear>rechfrea?n</unclear> <unclear>ob?at</unclear> quilibet nisi eo?um adch/ri rechhudime de<lb ed="#M" break="no" n="12"/>ficere 
+          potest imperfecte apprehendo false iudicando 
+          <lb ed="#M" n="13"/>proave disenserendo rechficar itaque prius secundum applicationem 
+          <lb ed="#M" n="14"/>modo a logica prip?i quo res perfecte apprehendamus 
+          <lb ed="#M" n="15"/>ldg per edu?corem quo pacto bene iudicamur sit 3rus 
+          <lb ed="#M" n="16"/>s fradion?em regular?em ex praeceptum quibus ?mm expecto 
+          <lb ed="#M" n="17"/>recte debeamus inferne
+        </p>
+        <p xml:id="tgy5tz-d1e48-d1e301">
+          <lb ed="#M" n="18"/>Notandum est hic imo de simplici apprehensione quadam
+          <lb ed="#M" n="19"/><unclear>s?sit</unclear> intellectus hoc non simpliciter apprehensione enim integras pro?siones 
+          <lb ed="#M" n="20"/>l?lu nempe peramendo earum se? ex ?? defre??<lb ed="#M" n="21"/>do 
+          an vera ut falsa sunt <unclear>Ideo</unclear> simplex apprehensio 
+          <pb ed="#M" n="4-r"/>
+          <lb ed="#M" n="1"/>versan dicitur circa lu? rei est, Iudicium non circa an est, 
+          <lb ed="#M" n="2"/>quia per simpli? hoc o?pimus quid ? l?r quid dica?re, per iudicium bono de 
+          <lb ed="#M" n="3"/>trnamus an ita sit vel non sit 
+        </p>
+        <p xml:id="tgy5tz-d1e48-d1e325">
+          <lb ed="#M" n="4"/>Notandum ideo quod intellectus a perfecta essentiae apprehensione defuit 
+          <lb ed="#M" n="5"/>his <unclear>medii</unclear>, imo d?? obse?ure et imperfecte rem aliquam apprehen<lb ed="#M" break="no" n="6"/>dit 
+          non os?erando per se omnes et singules partes ex gradio
+          <lb ed="#M" n="7"/>ess?ales eius
+        </p>
+        <p xml:id="tgy5tz-d1e48-d1e338">
+          Item <unclear>d?i</unclear> indistincte et confuse cognsocit ut 
+          <lb ed="#M" n="8"/>?o?? Iam ea quid sen?geranda et tu cum ?li apprehendit no
+          <lb ed="#M" n="9"/>mu? non distinguendo fictam eius ab ascend?bus ex in<lb ed="#M" break="no" n="10"/>ter 
+          acc?deam qualitate colorem ?iasque, ex alia, defiat tandem 
+          <lb ed="#M" n="11"/>dum quaeres naven? alicuius rei <unclear>essentiam</unclear> accipit a leges 
+          rationes repugnantes ipse rei ut ca apprehendit angelam tanquam 
+          <lb ed="#M" n="12"/>corporeum
+        </p>
+        <p xml:id="tgy5tz-d1e48-d1e356">
+          Notandum ?? Tunc imperfecta apprehensione rerfe?ara cum 
+          nullus clare es explicate te apprehendi Cum ti est ex defence?? 
+          ap?? ea quid in se distincta sunt cum quaerens rei alicuius 
+          <lb ed="#M" n="13"/>est??? invenire re ipsa asse quin ex attingit ipsa pro pna tali 
+          <lb ed="#M" n="14"/>rei essentiam
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
