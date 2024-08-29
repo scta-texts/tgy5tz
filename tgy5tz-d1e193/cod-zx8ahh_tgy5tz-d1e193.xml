@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articulus 8</title>
+        <author ref="#per-igzigz">Inokentii Gizel</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2024-08-29">August 29, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="M" n="cod-zx8ahh">ms 303-128</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#M" n="13-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="tgy5tz-d1e193">
+        <head>Articulus 8</head>
+        <p>
+          <lb ed="#M" n="16"/>ARTICVLVS VIII
+          <lb ed="#M"/>De singularibus et vniversalibus
+        </p>
+        <p>
+          <lb ed="#M"/>Vnumquodque est aut singulare aut vniversale Vniversale dicitur vulgo 
+          <lb ed="#M"/>quatuor modis . 
+        </p>
+        <p>
+          Primo vniversale in causando: Est causa mul<lb ed="#M" break="no"/>tarum 
+          rerum praesertim specie diversarum ut Deus et sol
+        </p>
+        <p>
+          <pb ed="#M" n="14-r"/>
+          <lb ed="#M"/><choice><orig>2ndo</orig><reg>secundo</reg></choice> vniversale in repraesentando est id quod repraesentat multa 
+          <lb ed="#M"/>tale est speculum 
+        </p>
+        <p>
+          Tertio vniversale in significando est id quod multa significat 
+          <lb ed="#M"/>ita tamen ut ea non repraesentet, ut haec vox exercitus
+          <lb ed="#M"/>Vniversale denique in essendo et repraesentando et id est natura quo<lb ed="#M"/>dam 
+          modo  una quae apta est inesse multis et praedicari de multis 
+          <lb ed="#M"/>ut homo dicitur de Ioanne Iacobo etc. Substantia de Angelis de 
+          <lb ed="#M"/>corporibus
+        </p>
+
+        </div>
+    </body>
+  </text>
+</TEI>
