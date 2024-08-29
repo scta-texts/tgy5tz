@@ -52,31 +52,31 @@
     </front>
     <body>
       <div xml:id="tgy5tz-d1e193">
-        <head>Articulus 8</head>
-        <p>
+        <head xml:id="tgy5tz-d1e193-Hd1e98">Articulus 8</head>
+        <p xml:id="tgy5tz-d1e193-d1e100">
           <lb ed="#M" n="16"/>ARTICVLVS VIII
-          <lb ed="#M"/>De singularibus et vniversalibus
+          <lb ed="#M" n="17"/>De singularibus et vniversalibus
         </p>
-        <p>
-          <lb ed="#M"/>Vnumquodque est aut singulare aut vniversale Vniversale dicitur vulgo 
-          <lb ed="#M"/>quatuor modis . 
+        <p xml:id="tgy5tz-d1e193-d1e107">
+          <lb ed="#M" n="18"/>Vnumquodque est aut singulare aut vniversale Vniversale dicitur vulgo 
+          <lb ed="#M" n="19"/>quatuor modis . 
         </p>
-        <p>
-          Primo vniversale in causando: Est causa mul<lb ed="#M" break="no"/>tarum 
+        <p xml:id="tgy5tz-d1e193-d1e114">
+          Primo vniversale in causando: Est causa mul<lb ed="#M" break="no" n="20"/>tarum 
           rerum praesertim specie diversarum ut Deus et sol
         </p>
-        <p>
+        <p xml:id="tgy5tz-d1e193-d1e119">
           <pb ed="#M" n="14-r"/>
-          <lb ed="#M"/><choice><orig>2ndo</orig><reg>secundo</reg></choice> vniversale in repraesentando est id quod repraesentat multa 
-          <lb ed="#M"/>tale est speculum 
+          <lb ed="#M" n="1"/><choice><orig>2ndo</orig><reg>secundo</reg></choice> vniversale in repraesentando est id quod repraesentat multa 
+          <lb ed="#M" n="2"/>tale est speculum 
         </p>
-        <p>
+        <p xml:id="tgy5tz-d1e193-d1e132">
           Tertio vniversale in significando est id quod multa significat 
-          <lb ed="#M"/>ita tamen ut ea non repraesentet, ut haec vox exercitus
-          <lb ed="#M"/>Vniversale denique in essendo et repraesentando et id est natura quo<lb ed="#M"/>dam 
+          <lb ed="#M" n="3"/>ita tamen ut ea non repraesentet, ut haec vox exercitus
+          <lb ed="#M" n="4"/>Vniversale denique in essendo et repraesentando et id est natura quo<lb ed="#M" break="no" n="5"/>dam 
           modo  una quae apta est inesse multis et praedicari de multis 
-          <lb ed="#M"/>ut homo dicitur de Ioanne Iacobo etc. Substantia de Angelis de 
-          <lb ed="#M"/>corporibus
+          <lb ed="#M" n="6"/>ut homo dicitur de Ioanne Iacobo etc. Substantia de Angelis de 
+          <lb ed="#M" n="7"/>corporibus
         </p>
 
         </div>
