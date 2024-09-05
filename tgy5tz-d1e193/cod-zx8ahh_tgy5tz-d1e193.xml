@@ -78,7 +78,7 @@
           <lb ed="#M" n="6"/>ut homo dicitur de Ioanne Iacobo etc. Substantia de Angelis de 
           <lb ed="#M" n="7"/>corporibus.
           </p>
-        <p>
+        <p xml:id="tgy5tz-d1e193-d1e146">
           <lb ed="#M" n="8"/>Singulare est natura, quae non communicatur pluribus
           <lb ed="#M" n="9"/>non dividitur in plura, seu non habet inferiora, de quibus possit
           <lb ed="#M" n="10"/>univoce praedicari ideo v.g. Petrus est singulare seu individuum.
@@ -108,7 +108,7 @@
           <lb ed="#M" n="12"/>quasi superveniens naturae uni, tanquam potentia quaedam et capa<lb ed="#M" break="no" n="13"/>citas, 
           qua ipsa natura possit dividi in plura.
         </p>
-        <p>
+        <p xml:id="tgy5tz-d1e193-d1e209">
         <lb ed="#M" n="14"/>Iam vero singulare seu individuum dicit naturam suam et di<lb ed="#M" break="no" n="15"/>fferentiam 
           propriam, qua intelligitur constitui haec natura ipsumque 
         <lb ed="#M" n="16"/>singulare cum sua determinata natura, intelligitur distingui 
@@ -116,7 +116,7 @@
           unde in omnibus singularibus haec differentia reperitur vocaturque 
         <lb ed="#M" n="19"/>haecceitas.
         </p>
-        <p>
+        <p xml:id="tgy5tz-d1e193-d1e225">
         <lb ed="#M" n="20"/>Caeterum apte universale dividitur in quinque universalia seu predicabilia
         <pb ed="#M" n="15-r"/>
         <lb ed="#M" n="1"/>nam cuiusque rei cognitionem dum  inquirimus aut consideramus 
