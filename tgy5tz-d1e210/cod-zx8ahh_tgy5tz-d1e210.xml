@@ -52,10 +52,45 @@
     </front>
     <body>
       <div xml:id="tgy5tz-d1e210">
-        <head>Articulus 9</head>
-        <p>
-        <lb/>
-        </p>
+       <head>Articulus 9</head>
+       <p>
+        <lb/>Genus est Universale aptum praedicari de multis specie diffe
+        <lb break="no"/>rentibus <hi>in quid</hi>. Sic animal praedicatur de homine et bellua.
+        <lb/>nam si quis interrogat Quid sit homo recte Respondebitur homo est animal
+        <lb/>Dum Genus dicitur universale praedicari de pluribus, differt ab indi
+        <lb break="no"/>viduo quod dicitur de uno solo <!--written as one word in the ms-->, et convenit cum aliis Universalibus,
+        <lb/>dum dicitur de pluribus specie, differt a specie quae dicitur tantum de
+        <lb/>pluribus Individuis. differt etiam a Proprio quod quan
+        <lb break="no"/>tum est de se praedicari tantum potest de una <!--written as one word--> specie et individuis
+        <lb/>eius, dum dicitur praedicari <hi>in quid</hi>. differt a differentia et ab
+        <lb/>Accidente ac etiam proprio quae omnia praedicantur <hi>in Quale</hi>
+        <pb ed="#M" n="15-v"/>
+        <lb ed="#M" n="1"/> Genus est aliud Summum quod nunquam est species ut substantia qualitas
+        <lb/> Aliud Medium Seu <!--capitalization--> Subalternum quod collatum ad superius Genus
+        <lb/> est Species ut animal respectu hominis est Genus, respectu corporis aut viventis est species.
+      </p>
+      <p>
+        <lb/>Species <!--the word is corrected in the manuscript--> est Universale quod directe immediate subiacet <unclear reason="damaged">Genere</unclear>
+        <lb/>quia species directe subiacet Genere, distinguitur a differentia quia est
+        <lb/>ad Latus Generis, sed quia species eodem Generi Subiicit 
+        <lb/>immediatè ideo distinguitur ab Individuo, quod Genus subest
+        <lb/>duntaxat mediatè id est mediante Specie, Sic Quercus
+        <lb/>Species est arboris et candor species coloris.
+      </p>
+      <p>
+       <lb/>Species duplex est, Una Subalterna, et altera Infima 
+       <lb/>Subalterna est, quae ita suo subiacet generi ut infra
+       <lb/>se agnoscat aliquas species ut de animali ostensum est.
+       <lb/>Species Infima seu Specialissima est illa, quae suo Generi
+       <lb/>sic subiacet ut infra se nullas species agnoscat sed
+       <lb/>Singularia tantum quae soli numero distinguuntur et talis
+       <lb/>est homo etc. et haec species dividitur in subiicibilem et praedica
+       <lb break="no"/>bilem, in quantum subiabilis describitur sic <hi>species est quae
+       <lb/>ponitur immediate sub Genere et de qua Genus praedicatur 
+       <lb/>in Quid</hi>, quatenus vero praedicabilis definitur <hi>Quae de pluribus
+       <pb/>
+       <lb/> et differentibus numero praedicatur proxime et complete in Quid.</hi>
+      </p ed="#M" n="16-r">
         </div>
     </body>
   </text>
