@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articulus 9</title>
+        <author ref="#per-igzigz">Inokentii Gizel</author>
+        <respStmt>
+          <name ref="#MykolaSymchych">Mykola Symchych</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Articulus 9</title>
+          <date when="2024-09-05">September 5, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="M" n="cod-zx8ahh">ms 303-128</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-09-05" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#M" n="15-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="tgy5tz-d1e210">
+       <head>Articulus 9</head>
+        <p>
+          <lb ed="#M" n="9"/>ARTICVLVS IX De
+          <lb ed="#M"/>GENERE.
+        </p>
+       <p>
+         <lb ed="#M"/>Genus est Universale aptum praedicari de multis specie diffe<lb ed="#M" break="no"/>rentibus 
+          <mentioned rend="underline">in quid</mentioned>. Sic animal praedicatur de homine et bellua.
+          <lb ed="#M"/>nam si quis interrogat Quid sit homo recte Respondebitur homo est animal
+          <lb ed="#M"/>Dum Genus dicitur universale praedicari de pluribus, differt ab indi<lb ed="#M" break="no"/>viduo 
+           quod dicitur de uno solo <!--written as one word in the ms-->, et convenit cum aliis Universalibus,
+          <lb ed="#M"/>dum dicitur de pluribus specie, differt a specie quae dicitur tantum de
+          <lb ed="#M"/>pluribus Individuis. differt etiam a Proprio quod quan<lb ed="#M" break="no"/>tum 
+          est de se praedicari tantum potest de una <!--written as one word--> specie et individuis
+          <lb ed="#M"/>eius, dum dicitur praedicari <mentioned rend="underline">in quid</mentioned>. differt a differentia et ab
+          <lb ed="#M"/>Accidente ac etiam proprio quae omnia praedicantur <mentioned rend="underline">in Quale</mentioned>
+          <pb ed="#M" n="15-v"/>
+          <lb ed="#M"/> Genus est aliud Summum quod nunquam est species ut substantia qualitas
+          <lb ed="#M"/> Aliud Medium Seu <!--capitalization--> Subalternum quod collatum ad superius Genus
+          <lb ed="#M"/> est Species ut animal respectu hominis est Genus, respectu corporis aut viventis est species.
+        </p>
+        <p>
+          <lb ed="#M"/><subst><del rend="erasure"><unclear/></del> <add place="in-line">Species</add></subst> est Universale quod directe immediate subiacet <unclear reason="damaged">Genere</unclear>
+          <lb ed="#M"/>quia species directe subiacet Genere, distinguitur a differentia quia est
+          <lb ed="#M"/>ad Latus Generis, sed quia species eodem Generi Subiicit 
+          <lb ed="#M"/>immediatè ideo distinguitur ab Individuo, quod Genus subest
+          <lb ed="#M"/>duntaxat mediate id est mediante Specie, Sic Quercus
+          <lb ed="#M"/>Species est arboris et candor species coloris.
+        </p>
+        <p>
+         <lb ed="#M"/>Species duplex est, Una Subalterna, et altera Infima 
+         <lb ed="#M"/>Subalterna est, quae ita suo subiacet generi ut infra
+         <lb ed="#M"/>se agnoscat aliquas species ut de animali ostensum est.
+         <lb ed="#M"/>Species Infima seu Specialissima est illa, quae suo <hi rend="underlined">Generi</hi>
+         <lb ed="#M"/>sic <hi rend="underlined">subiacet</hi> ut infra se nullas species agnoscat sed
+         <lb ed="#M"/>Singularia tantum quae soli numero distinguuntur et talis
+         <lb ed="#M"/>est homo etc. 
+          <note type="marginal-note" place="left-margin">
+            Infima 
+            species est duplex
+          </note>
+          et haec species dividitur in subiicibilem et praedica<lb ed="#M" break="no"/>bilem, 
+          in quantum subiabilis describitur sic <hi rend="underline">species est quae
+         <lb ed="#M"/>ponitur immediate sub Genere et de qua Genus praedicatur 
+         <lb ed="#M"/>in Quid</hi>, quatenus vero praedicabilis definitur <hi rend="underline">Quae de pluribus
+         <pb ed="#M" n="16-r"/>
+         <lb ed="#M"/> et differentibus numero praedicatur proxime et complete in Quid.</hi>
+        </p>
+        </div>
+    </body>
+  </text>
+</TEI>
