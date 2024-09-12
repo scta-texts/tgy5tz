@@ -5,6 +5,11 @@
         <title>Articulus 9</title>
         <author ref="#per-igzigz">Inokentii Gizel</author>
         <respStmt>
+          <name ref="#MykolaSymchych">Mykola Symchych</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
           <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
