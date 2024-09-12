@@ -53,44 +53,53 @@
     <body>
       <div xml:id="tgy5tz-d1e210">
        <head>Articulus 9</head>
+        <p>
+          <lb ed="#M" n="9"/>ARTICVLVS IX De
+          <lb ed="#M"/>GENERE.
+        </p>
        <p>
-        <lb/>Genus est Universale aptum praedicari de multis specie diffe
-        <lb break="no"/>rentibus <hi>in quid</hi>. Sic animal praedicatur de homine et bellua.
-        <lb/>nam si quis interrogat Quid sit homo recte Respondebitur homo est animal
-        <lb/>Dum Genus dicitur universale praedicari de pluribus, differt ab indi
-        <lb break="no"/>viduo quod dicitur de uno solo <!--written as one word in the ms-->, et convenit cum aliis Universalibus,
-        <lb/>dum dicitur de pluribus specie, differt a specie quae dicitur tantum de
-        <lb/>pluribus Individuis. differt etiam a Proprio quod quan
-        <lb break="no"/>tum est de se praedicari tantum potest de una <!--written as one word--> specie et individuis
-        <lb/>eius, dum dicitur praedicari <hi>in quid</hi>. differt a differentia et ab
-        <lb/>Accidente ac etiam proprio quae omnia praedicantur <hi>in Quale</hi>
-        <pb ed="#M" n="15-v"/>
-        <lb ed="#M" n="1"/> Genus est aliud Summum quod nunquam est species ut substantia qualitas
-        <lb/> Aliud Medium Seu <!--capitalization--> Subalternum quod collatum ad superius Genus
-        <lb/> est Species ut animal respectu hominis est Genus, respectu corporis aut viventis est species.
-      </p>
-      <p>
-        <lb/>Species <!--the word is corrected in the manuscript--> est Universale quod directe immediate subiacet <unclear reason="damaged">Genere</unclear>
-        <lb/>quia species directe subiacet Genere, distinguitur a differentia quia est
-        <lb/>ad Latus Generis, sed quia species eodem Generi Subiicit 
-        <lb/>immediatè ideo distinguitur ab Individuo, quod Genus subest
-        <lb/>duntaxat mediatè id est mediante Specie, Sic Quercus
-        <lb/>Species est arboris et candor species coloris.
-      </p>
-      <p>
-       <lb/>Species duplex est, Una Subalterna, et altera Infima 
-       <lb/>Subalterna est, quae ita suo subiacet generi ut infra
-       <lb/>se agnoscat aliquas species ut de animali ostensum est.
-       <lb/>Species Infima seu Specialissima est illa, quae suo Generi
-       <lb/>sic subiacet ut infra se nullas species agnoscat sed
-       <lb/>Singularia tantum quae soli numero distinguuntur et talis
-       <lb/>est homo etc. et haec species dividitur in subiicibilem et praedica
-       <lb break="no"/>bilem, in quantum subiabilis describitur sic <hi>species est quae
-       <lb/>ponitur immediate sub Genere et de qua Genus praedicatur 
-       <lb/>in Quid</hi>, quatenus vero praedicabilis definitur <hi>Quae de pluribus
-       <pb/>
-       <lb/> et differentibus numero praedicatur proxime et complete in Quid.</hi>
-      </p ed="#M" n="16-r">
+         <lb ed="#M"/>Genus est Universale aptum praedicari de multis specie diffe<lb ed="#M" break="no"/>rentibus 
+          <mentioned rend="underline">in quid</mentioned>. Sic animal praedicatur de homine et bellua.
+          <lb ed="#M"/>nam si quis interrogat Quid sit homo recte Respondebitur homo est animal
+          <lb ed="#M"/>Dum Genus dicitur universale praedicari de pluribus, differt ab indi<lb ed="#M" break="no"/>viduo 
+           quod dicitur de uno solo <!--written as one word in the ms-->, et convenit cum aliis Universalibus,
+          <lb ed="#M"/>dum dicitur de pluribus specie, differt a specie quae dicitur tantum de
+          <lb ed="#M"/>pluribus Individuis. differt etiam a Proprio quod quan<lb ed="#M" break="no"/>tum 
+          est de se praedicari tantum potest de una <!--written as one word--> specie et individuis
+          <lb ed="#M"/>eius, dum dicitur praedicari <mentioned rend="underline>in quid</mentioned>. differt a differentia et ab
+          <lb ed="#M"/>Accidente ac etiam proprio quae omnia praedicantur <mentioned rend="underline">in Quale</mentioned>
+          <pb ed="#M" n="15-v"/>
+          <lb ed="#M" ed="#M" n="1"/> Genus est aliud Summum quod nunquam est species ut substantia qualitas
+          <lb ed="#M"/> Aliud Medium Seu <!--capitalization--> Subalternum quod collatum ad superius Genus
+          <lb ed="#M"/> est Species ut animal respectu hominis est Genus, respectu corporis aut viventis est species.
+        </p>
+        <p>
+          <lb ed="#M"/><subst><del rend="erasure"><unclear/></del> <add place="in-line">Species</add></subst> est Universale quod directe immediate subiacet <unclear reason="damaged">Genere</unclear>
+          <lb ed="#M"/>quia species directe subiacet Genere, distinguitur a differentia quia est
+          <lb ed="#M"/>ad Latus Generis, sed quia species eodem Generi Subiicit 
+          <lb ed="#M"/>immediatè ideo distinguitur ab Individuo, quod Genus subest
+          <lb ed="#M"/>duntaxat mediate id est mediante Specie, Sic Quercus
+          <lb ed="#M"/>Species est arboris et candor species coloris.
+        </p>
+        <p>
+         <lb ed="#M"/>Species duplex est, Una Subalterna, et altera Infima 
+         <lb ed="#M"/>Subalterna est, quae ita suo subiacet generi ut infra
+         <lb ed="#M"/>se agnoscat aliquas species ut de animali ostensum est.
+         <lb ed="#M"/>Species Infima seu Specialissima est illa, quae suo <hi rend="underlined">Generi</hi>
+         <lb ed="#M"/>sic <hi rend="underlined">subiacet</hi> ut infra se nullas species agnoscat sed
+         <lb ed="#M"/>Singularia tantum quae soli numero distinguuntur et talis
+         <lb ed="#M"/>est homo etc. 
+          <note type="marginal-note" place="left-margin">
+            Infima 
+            species est duplex
+          </note>
+          et haec species dividitur in subiicibilem et praedica<lb ed="#M" break="no"/>bilem, 
+          in quantum subiabilis describitur sic <hi rend="underline">species est quae
+         <lb ed="#M"/>ponitur immediate sub Genere et de qua Genus praedicatur 
+         <lb ed="#M"/>in Quid</hi>, quatenus vero praedicabilis definitur <hi rend="underline">Quae de pluribus
+         <pb ed="#M" n="16-r"/>
+         <lb ed="#M"/> et differentibus numero praedicatur proxime et complete in Quid.</hi>
+        </p>
         </div>
     </body>
   </text>
