@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Articulus 10</title>
+        <author ref="#per-igzigz">Inokentii Gizel</author>
+        <respStmt>
+          <name ref="#MykolaSymchych">Mykola Symchych</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Articulus 10</title>
+          <date when="2024-10-03">October 3, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="M" n="cod-zx8ahh">ms 303-128</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-10-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#M" n="16-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="tgy5tz-d1e228">
+        <head>Articulus 10</head>
+        <head type="question-title">De differentia, proprio, et accidente</head>
+        <p>
+          <lb ed="#M"/>ARTICULUS X. De
+          <lb ed="#M"/>Differentia Proprio et Accidente.
+       </p>
+       <p>
+         <lb ed="#M"/>Differentia est id quo aliquid differt ab aliquo, Sunt autem differentiae 
+         <lb ed="#M"/>aliae aliis maiores, rerum nam quaedam differunt solo numero
+         <lb ed="#M"/>ut Joannes a Jacobo, Quaedam numero et specie ut equus 
+         <lb ed="#M"/>ab homine quaedam numero specie et genere ut homo a lapide. 
+         <lb ed="#M"/>Sunt et differentiarum quaedam Essentiales quibus res ad invicem 
+         dif<lb ed="#M" break="no"/>ferunt essentia ac definitione ac proinde specie. Quaedam 
+         acci<lb ed="#M" break="no"/>dentales quibus res <unclear>quandam</unclear> eiusdem speciei differunt ad invicem 
+         <lb ed="#M"/>accidentibus ut ethyops a sarmata differunt colore
+         <lb ed="#M"/>mas a <choice><sic>faemina</sic> <corr>femina</corr></choice> sexu.
+       </p>
+       <p>
+          <lb ed="#M"/>Differentia Principalis et Propriissima quae constituit 
+          <lb ed="#M"/>tertium praedicabile est ea qua species ad invicem differunt
+          <lb ed="#M"/>discrimine essentiali, eius munus est triplex nam primo dividit
+          <lb ed="#M"/>genus, secundo constituit Speciem tertio addita Generi definitionem
+          <lb ed="#M"/>specie implet veluti rationalitas constituit hominem et 
+          divi<lb ed="#M" break="no"/>dit animal et addita animali efficit definitionem hominis
+        </p>
+        <p>
+          <pb ed="#M" n="16-v"/> 
+          <lb ed="#M"/>Eadem differentia inquantum est praedicabilis definitur a <choice><orig>Porphirio</orig><reg>Porphyrio</reg></choice> sic <quote rend="underline">
+          <lb ed="#M"/>Est universalis natura quae de pluribus differentibus specie 
+          predica<lb ed="#M" break="no"/>ri potest in Quale Quid seu in quale Essentiale</quote>, debetque hoc modo
+          <lb ed="#M"/>distingui duplex differentia una Generica, quae constituit naturam
+          <lb ed="#M"/>Genericam, Altera Specifica quae constituit naturam 
+          specifi<lb ed="#M" break="no"/>cam infimam, Illa praedicatur de pluribus speciebus, ut sensitivum
+          <lb ed="#M"/>constituit animal, et dicitur de omnibus speciebus animalis, Alia dicitur de solis
+          <lb ed="#M"/>individuis ut rationale constituit hominem et dicitur de singulis hominibus
+          <lb ed="#M"/>Definitio <choice><orig>Porphirii</orig><reg>Porphyrii</reg></choice> spectat ad solam differentiam Genericam 
+          adaeq<lb ed="#M" break="no"/>uate Ergo differentia essentialis in tota sua Latitudine debet 
+          defi<lb ed="#M" break="no"/>niri: <mentioned rend="underlined">est quae praedicatur de pluribus essentialiter in Quaele</mentioned>.
+        </p>
+        <p>
+          <lb ed="#M"/>Quod attinet Proprium. Nomen Proprii duobus praecipue
+          <lb ed="#M"/>modis sumitur. Primo ut opponitur improprio Sicut homo pictus
+          <lb ed="#M"/>dicitur improprie, homo vivus autem proprie. Secundo sumitur ut opponitur
+          <lb ed="#M"/>communi, sic proprium dicitur quod proprie et determinate alicui convenit.
+          <lb ed="#M"/>Proprium itaque hoc modo sumptum dicitur quatuor modis. Primo
+          <lb ed="#M"/>quod soli cuidam speciei convenit sed non omni sic esse <unclear>Delirium</unclear>
+          <lb ed="#M"/>convenit homini soli sed non omni. Secundo modo est quod omni quidem
+          <lb ed="#M"/>convenit sed non soli, sic esse capitatum convenit omni homini
+          <pb ed="#M" n="17-r"/> 
+          <lb ed="#M"/>sed non soli tertio quod omni soli convenit sed non semper
+          <lb ed="#M"/>sic canescere quarto quod omni soli et semper esse risibilem.
+          <lb ed="#M"/>esse flebilem.
+        </p>
+        <p>
+          <lb ed="#M"/>Definitur Proprium quatenus est quartum universale id quod aptum est praedicari de
+          <lb ed="#M"/>multis in Quale accidentaliter et necessario de singulis et cum
+          <lb ed="#M"/>sua specie reciprocatur sic risible de homine praedicatur primo quidem in
+          <lb ed="#M"/>quale quia quaerenti qualis est homo recte Respondeo per risibile homo est risibilis
+          <lb ed="#M"/>secundo de homine praedicatur accidentaliter quia non est eius attributum essentiale ut
+          <lb ed="#M"/>pote Quod non designet partem essentiae sed potius proprietatem
+          <lb ed="#M"/>seu potentiam ex essentia hominis promanantem. Tertio singulis 
+          conve<lb ed="#M" break="no"/>nit necessario quia quemlibet hominem esse risibilem necesse
+          <lb ed="#M"/>est. Quarto Cum sua specie id est cum homine reciprocatur nam omnis homo
+          <lb ed="#M"/>est risibilis et omne risibile est homo.
+        </p>
+        <p>
+          <lb ed="#M"/>Proprium est duplex in quantum Universale unum Genericum alterum Specificum
+          <lb ed="#M"/>Genericum est quod reciprocatur cum Genere ut mortale respectu viventis. 
+          <lb ed="#M"/>Specificum reciprocatur cum specie ut risibile cum homine.
+          <lb ed="#M"/>Agnosci poteris et tertium proprium nempe Transcedentals ut
+          <lb ed="#M"/>unum verum bonum respectu entis.
+      </p>
+      <p>
+        <lb ed="#M"/>Accidens quoque duplicter sumitur. Primo prout distinguitur
+        <pb ed="#M" n="17-v"/>
+        <lb ed="#M"/>contra substantiam et hoc dicitur Accidens praedicamentale, sub quo
+        <lb ed="#M"/>continentur novem praedicamenta Accidentium. Secundo prout dicit
+        <lb ed="#M"/>quod quod est extra essentiam rei ita, ut etiam si una substantia
+        <lb ed="#M"/>adsit alteri extra essentiam eius, dicatur eius Accidens.
+        <lb ed="#M"/>Hoc accidens rursus vel sumitur in tota sua Latitudine
+        <lb ed="#M"/>et sit complectitur enim proprium vel sumitur distinguendo 
+        Acci<lb ed="#M" break="no"/>dens proprium et commune et per accidens absolute dictum 
+        intelligen<lb ed="#M" break="no"/>do accidens commune distinctum a proprio, et hoc modo nunc Sumitur
+        <lb ed="#M"/>dum distincte nominantur Proprium et Accidens ac si dicantur
+        <lb ed="#M"/>accidens Proprium et commune Accidens sic sumptum definitur a
+        <lb ed="#M"/><choice><orig>Porphirio</orig><reg>Porphyrio</reg></choice>: <quote>Quod adest et abest praeter subiecti corruptionem id est
+        <lb ed="#M"/>advenit subiecto ad eoque recedit incorrupto remanente ipso
+        <lb ed="#M"/>subiecto.</quote> Adhuc autem distinguuntur duplex Accidens Separabile.
+        <lb ed="#M"/>ut sessio et similia et inseparabile ut nigrum Corno, album
+        <lb ed="#M"/>sygno. Quamvis autem huiusmodi Accidens est Separetur
+        <lb ed="#M"/>realiter a subiecto, tamen saltem cogitatione seiungitur, quia possumus
+        <lb ed="#M"/>Corvum intelligere cum albedine sine praeiuditio essentiae Corvi
+        <lb ed="#M"/>Secus est in proprio nam ne abstractione quidem mentis a subiecto sepa
+        <pb ed="#M" n="18-r"/>
+        <lb ed="#M"/>rari potest, fluit nam a forma subiecti.
+      </p>
+      <p>
+        <lb ed="#M"/>Accidens itaque Commune quatenus Universale definiri potest
+        <lb ed="#M"/>Sic Universale aptum praedicari de multis subiectis accidentaliter, sed non
+        <lb ed="#M"/>necessario de singulis, Sic album praedicatur de pariete marmore
+        <lb ed="#M"/>quia non est necesse quamlibet parietem esse album.
+      </p>
+      <p>
+        <lb ed="#M"/>Hoc accidens commune vel Genericum est vel Specificum. Genericum est
+        <lb ed="#M"/>quod convenit multis etiam Specie diversis sic album convenit
+        <lb ed="#M"/>nivi et Cygno. Specificum est quod multis tantum numero 
+        diffe<lb ed="#M" break="no"/>rentibus tribuitur ut ridere.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
