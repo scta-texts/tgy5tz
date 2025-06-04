@@ -57,13 +57,13 @@
     </front>
     <body>
       <div xml:id="tgy5tz-d1e228">
-        <head>Articulus 10</head>
-        <head type="question-title">De differentia, proprio, et accidente</head>
-        <p>
+        <head xml:id="tgy5tz-d1e228-Hd1e108">Articulus 10</head>
+        <head xml:id="tgy5tz-d1e228-Hd1e110" type="question-title">De differentia, proprio, et accidente</head>
+        <p xml:id="tgy5tz-d1e228-d1e113">
           <lb ed="#M"/>ARTICULUS X. De
           <lb ed="#M"/>Differentia Proprio et Accidente.
        </p>
-       <p>
+       <p xml:id="tgy5tz-d1e228-d1e120">
          <lb ed="#M"/>Differentia est id quo aliquid differt ab aliquo, Sunt autem differentiae 
          <lb ed="#M"/>aliae aliis maiores, rerum nam quaedam differunt solo numero
          <lb ed="#M"/>ut Joannes a Jacobo, Quaedam numero et specie ut equus 
@@ -74,7 +74,7 @@
          <lb ed="#M"/>accidentibus ut ethyops a sarmata differunt colore
          <lb ed="#M"/>mas a <choice><sic>faemina</sic> <corr>femina</corr></choice> sexu.
        </p>
-       <p>
+       <p xml:id="tgy5tz-d1e228-d1e149">
           <lb ed="#M"/>Differentia Principalis et Propriissima quae constituit 
           <lb ed="#M"/>tertium praedicabile est ea qua species ad invicem differunt
           <lb ed="#M"/>discrimine essentiali, eius munus est triplex nam primo dividit
@@ -82,9 +82,9 @@
           <lb ed="#M"/>specie implet veluti rationalitas constituit hominem et 
           divi<lb ed="#M" break="no"/>dit animal et addita animali efficit definitionem hominis
         </p>
-        <p>
+        <p xml:id="tgy5tz-d1e228-d1e166">
           <pb ed="#M" n="16-v"/> 
-          <lb ed="#M"/>Eadem differentia inquantum est praedicabilis definitur a <choice><orig>Porphirio</orig><reg>Porphyrio</reg></choice> sic <quote rend="underline">
+          <lb ed="#M"/>Eadem differentia inquantum est praedicabilis definitur a <choice><orig>Porphirio</orig><reg>Porphyrio</reg></choice> sic <quote xml:id="tgy5tz-d1e228-Qd1e176" rend="underline">
           <lb ed="#M"/>Est universalis natura quae de pluribus differentibus specie 
           predica<lb ed="#M" break="no"/>ri potest in Quale Quid seu in quale Essentiale</quote>, debetque hoc modo
           <lb ed="#M"/>distingui duplex differentia una Generica, quae constituit naturam
@@ -96,7 +96,7 @@
           adaeq<lb ed="#M" break="no"/>uate Ergo differentia essentialis in tota sua Latitudine debet 
           defi<lb ed="#M" break="no"/>niri: <mentioned rend="underlined">est quae praedicatur de pluribus essentialiter in Quaele</mentioned>.
         </p>
-        <p>
+        <p xml:id="tgy5tz-d1e228-d1e209">
           <lb ed="#M"/>Quod attinet Proprium. Nomen Proprii duobus praecipue
           <lb ed="#M"/>modis sumitur. Primo ut opponitur improprio Sicut homo pictus
           <lb ed="#M"/>dicitur improprie, homo vivus autem proprie. Secundo sumitur ut opponitur
@@ -110,7 +110,7 @@
           <lb ed="#M"/>sic canescere quarto quod omni soli et semper esse risibilem.
           <lb ed="#M"/>esse flebilem.
         </p>
-        <p>
+        <p xml:id="tgy5tz-d1e228-d1e240">
           <lb ed="#M"/>Definitur Proprium quatenus est quartum universale id quod aptum est praedicari de
           <lb ed="#M"/>multis in Quale accidentaliter et necessario de singulis et cum
           <lb ed="#M"/>sua specie reciprocatur sic risible de homine praedicatur primo quidem in
@@ -122,14 +122,14 @@
           <lb ed="#M"/>est. Quarto Cum sua specie id est cum homine reciprocatur nam omnis homo
           <lb ed="#M"/>est risibilis et omne risibile est homo.
         </p>
-        <p>
+        <p xml:id="tgy5tz-d1e228-d1e264">
           <lb ed="#M"/>Proprium est duplex in quantum Universale unum Genericum alterum Specificum
           <lb ed="#M"/>Genericum est quod reciprocatur cum Genere ut mortale respectu viventis. 
           <lb ed="#M"/>Specificum reciprocatur cum specie ut risibile cum homine.
           <lb ed="#M"/>Agnosci poteris et tertium proprium nempe Transcedentals ut
           <lb ed="#M"/>unum verum bonum respectu entis.
       </p>
-      <p>
+      <p xml:id="tgy5tz-d1e228-d1e277">
         <lb ed="#M"/>Accidens quoque duplicter sumitur. Primo prout distinguitur
         <pb ed="#M" n="17-v"/>
         <lb ed="#M"/>contra substantiam et hoc dicitur Accidens praedicamentale, sub quo
@@ -142,7 +142,7 @@
         intelligen<lb ed="#M" break="no"/>do accidens commune distinctum a proprio, et hoc modo nunc Sumitur
         <lb ed="#M"/>dum distincte nominantur Proprium et Accidens ac si dicantur
         <lb ed="#M"/>accidens Proprium et commune Accidens sic sumptum definitur a
-        <lb ed="#M"/><choice><orig>Porphirio</orig><reg>Porphyrio</reg></choice>: <quote>Quod adest et abest praeter subiecti corruptionem id est
+        <lb ed="#M"/><choice><orig>Porphirio</orig><reg>Porphyrio</reg></choice>: <quote xml:id="tgy5tz-d1e228-Qd1e310">Quod adest et abest praeter subiecti corruptionem id est
         <lb ed="#M"/>advenit subiecto ad eoque recedit incorrupto remanente ipso
         <lb ed="#M"/>subiecto.</quote> Adhuc autem distinguuntur duplex Accidens Separabile.
         <lb ed="#M"/>ut sessio et similia et inseparabile ut nigrum Corno, album
@@ -153,13 +153,13 @@
         <pb ed="#M" n="18-r"/>
         <lb ed="#M"/>rari potest, fluit nam a forma subiecti.
       </p>
-      <p>
+      <p xml:id="tgy5tz-d1e228-d1e333">
         <lb ed="#M"/>Accidens itaque Commune quatenus Universale definiri potest
         <lb ed="#M"/>Sic Universale aptum praedicari de multis subiectis accidentaliter, sed non
         <lb ed="#M"/>necessario de singulis, Sic album praedicatur de pariete marmore
         <lb ed="#M"/>quia non est necesse quamlibet parietem esse album.
       </p>
-      <p>
+      <p xml:id="tgy5tz-d1e228-d1e345">
         <lb ed="#M"/>Hoc accidens commune vel Genericum est vel Specificum. Genericum est
         <lb ed="#M"/>quod convenit multis etiam Specie diversis sic album convenit
         <lb ed="#M"/>nivi et Cygno. Specificum est quod multis tantum numero 
