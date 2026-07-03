@@ -41,6 +41,9 @@
         <change when="2024-08-26" status="draft" n="0.0.0">
           <p>Created file for the first time.</p>
         </change>
+        <change when="2026-07-03" status="draft" n="0.0.1">
+          <p>Codex (GPT-5) corrected internal xml:id prefixes in Articulus 1 from tgy5tz-d1e48 to tgy5tz-d1e73 so the division body IDs match the containing SCTA division.</p>
+        </change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -51,21 +54,21 @@
       </div>
     </front>
     <body>
-      <div xml:id="tgy5tz-d1e48">
-        <head xml:id="tgy5tz-d1e48-Hd1e98">Articulus 1</head>
-        <p xml:id="tgy5tz-d1e48-d1e100">
+      <div xml:id="tgy5tz-d1e73">
+        <head xml:id="tgy5tz-d1e73-Hd1e98">Articulus 1</head>
+        <p xml:id="tgy5tz-d1e73-d1e100">
           <lb ed="#M" n="15"/>PARS PRIMA DIALECTICAE
           <lb ed="#M" n="16"/>De operatione prima
           <lb ed="#M" n="17"/>ARTICVLVS Imvs
         </p>
-        <p xml:id="tgy5tz-d1e48-d1e109">
+        <p xml:id="tgy5tz-d1e73-d1e109">
           <lb ed="#M" n="18"/>De operatione <unclear>intellecti</unclear> ex <unclear>praecipue</unclear> de simplici apprehensione
           <lb ed="#M" n="19"/>operatio in communi est <unclear>achis postea</unclear> intellectu <unclear>a</unclear>
           <pb ed="#M" n="3-r"/>
           <lb ed="#M" n="1"/>quo nobis repraesentatur obiectum dum nempe mente absque 
           <lb ed="#M" n="2"/><unclear>n?</unclear> illiusque notitia habemus <unclear>versani</unclear> ante potest nostra intellectiva 
           <lb ed="#M" n="3"/>cognitio circa omnes <unclear>pro?sis</unclear> rei nulla excepta <!-- possible inversion here --> imo enim circa 
-          <lb ed="#M" n="4"/><unclear>negationes</unclear> <unclear>re?</unclear> idcirca non entia, atque circa <name xml:id="tgy5tz-d1e48-Nd1e146">okam</name><!-- ???--> quadam 
+          <lb ed="#M" n="4"/><unclear>negationes</unclear> <unclear>re?</unclear> idcirca non entia, atque circa <name xml:id="tgy5tz-d1e73-Nd1e146">okam</name><!-- ???--> quadam 
           <lb ed="#M" n="5"/>qua cum re ipsa non fiat ex <unclear>cogita??</unclear> <unclear>am?</unclear> abs<lb ed="#M" break="no" n="6"/>que 
           Intellectu sua met cognitione <unclear>singularium</unclear> et propterea ea <unclear>dea?num</unclear>
           <lb ed="#M" n="7"/>entia rationis <unclear>ult</unclear> ipsa cognitio quaedam perfecta est rectitudinem 
@@ -73,7 +76,7 @@
           in rectitudinem aut falsitatem <unclear>hlt</unclear> <unclear>va ? ?</unclear> <unclear>agritudinem 
           <lb ed="#M" n="10"/>et capacitatem rectitudines</unclear>
         </p>
-        <p xml:id="tgy5tz-d1e48-d1e183">
+        <p xml:id="tgy5tz-d1e73-d1e183">
           <lb ed="#M" n="11"/><unclear>Pra?quem</unclear> consideramus tres esse gradus cognitionis 1mus 
           <lb ed="#M" n="12"/>apprehensio 2dus iudicum 3tius discursus . Simplex <!-- possible marginal addition here-->
           <lb ed="#M" n="13"/>apprehensione dum intellectus simplici modo cognoscit et con<lb ed="#M" break="no" n="14"/>cipit 
@@ -106,7 +109,7 @@
           <lb ed="#M" n="16"/>s fradion?em regular?em ex praeceptum quibus ?mm expecto 
           <lb ed="#M" n="17"/>recte debeamus inferne
         </p>
-        <p xml:id="tgy5tz-d1e48-d1e301">
+        <p xml:id="tgy5tz-d1e73-d1e301">
           <lb ed="#M" n="18"/>Notandum est hic imo de simplici apprehensione quadam
           <lb ed="#M" n="19"/><unclear>s?sit</unclear> intellectus hoc non simpliciter apprehensione enim integras pro?siones 
           <lb ed="#M" n="20"/>l?lu nempe peramendo earum se? ex ?? defre??<lb ed="#M" n="21"/>do 
@@ -116,13 +119,13 @@
           <lb ed="#M" n="2"/>quia per simpli? hoc o?pimus quid ? l?r quid dica?re, per iudicium bono de 
           <lb ed="#M" n="3"/>trnamus an ita sit vel non sit 
         </p>
-        <p xml:id="tgy5tz-d1e48-d1e325">
+        <p xml:id="tgy5tz-d1e73-d1e325">
           <lb ed="#M" n="4"/>Notandum ideo quod intellectus a perfecta essentiae apprehensione defuit 
           <lb ed="#M" n="5"/>his <unclear>medii</unclear>, imo d?? obse?ure et imperfecte rem aliquam apprehen<lb ed="#M" break="no" n="6"/>dit 
           non os?erando per se omnes et singules partes ex gradio
           <lb ed="#M" n="7"/>ess?ales eius
         </p>
-        <p xml:id="tgy5tz-d1e48-d1e338">
+        <p xml:id="tgy5tz-d1e73-d1e338">
           Item <unclear>d?i</unclear> indistincte et confuse cognsocit ut 
           <lb ed="#M" n="8"/>?o?? Iam ea quid sen?geranda et tu cum ?li apprehendit no
           <lb ed="#M" n="9"/>mu? non distinguendo fictam eius ab ascend?bus ex in<lb ed="#M" break="no" n="10"/>ter 
@@ -131,7 +134,7 @@
           <lb ed="#M" n="12"/>rationes repugnantes ipse rei ut ca apprehendit angelam tanquam 
           <lb ed="#M" n="13"/>corporeum
         </p>
-        <p xml:id="tgy5tz-d1e48-d1e356">
+        <p xml:id="tgy5tz-d1e73-d1e356">
           <lb ed="#M" n="14"/>Notandum ?? Tunc imperfecta apprehensione rerfe?ara cum 
           <lb ed="#M" n="15"/>nullus clare es explicate te apprehendi Cum ti est ex defence?? 
           <lb ed="#M" n="16"/>ap?? ea quid in se distincta sunt cum quaerens rei alicuius 
